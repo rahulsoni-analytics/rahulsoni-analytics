@@ -8,13 +8,14 @@ Hi, I'm Rahul Soni 👋
 
 🛠️ Skills
 
-- SQL (Joins, Subqueries, Window Functions)
-- Microsoft Excel (Pivot Tables, VLOOKUP, Data Cleaning)
-- Power BI (Dashboards, DAX Basics, Data Modeling)
-- Python (Pandas, NumPy - Basics)
+- Data Visualization: Power BI
+- Data Analysis: Microsoft Excel (Pivot Tables, Charts, Lookup Functions)
+- Database: SQL 
+- Data Processing: Power Query, ETL Concepts
+- Data Modeling: Relationships, Calculated Columns, Measures
+- Programming: Python (Basics – Pandas, NumPy, Matplotlib))
 
 ---
 
 📌 Projects
 Check my pinned repositories below 👇## Hi there 👋
-
