@@ -1,8 +1,10 @@
 Hi, I'm Rahul Soni 👋
 
-📊 Aspiring Data Analyst | SQL • Excel • Power BI  
-🔍 Turning raw data into meaningful insights  
+📊 Data Analyst | SQL • Excel • Power BI • Python  
+📈 Turning data into actionable business insights
 📈 Passionate about data visualization & business problem-solving  
+💡 Strong in data cleaning, visualization & business insights
+🚀 Open to Data Analyst / MIS roles
 
 ---
 
