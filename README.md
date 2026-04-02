@@ -10,7 +10,7 @@ Hi, I'm Rahul Soni 👋
 
 - Data Visualization: Power BI
 - Data Analysis: Microsoft Excel (Pivot Tables, Charts, Lookup Functions)
-- Database: SQL 
+- Database: SQL (MySQL / PostgreSQL)
 - Data Processing: Power Query, ETL Concepts
 - Data Modeling: Relationships, Calculated Columns, Measures
 - Programming: Python (Basics – Pandas, NumPy, Matplotlib))
