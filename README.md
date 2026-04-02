@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi, I'm Rahul Soni 👋
 
-<!--
-**rahulsoni-analytics/rahulsoni-analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Aspiring Data Analyst | SQL • Excel • Power BI  
+🔍 Turning raw data into meaningful insights  
+📈 Passionate about data visualization & business problem-solving  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Skills
+
+- SQL (Joins, Subqueries, Window Functions)
+- Microsoft Excel (Pivot Tables, VLOOKUP, Data Cleaning)
+- Power BI (Dashboards, DAX Basics, Data Modeling)
+- Python (Pandas, NumPy - Basics)
+
+---
+
+📌 Projects
+Check my pinned repositories below 👇## Hi there 👋
+
