@@ -20,4 +20,4 @@ Hi, I'm Rahul Soni 👋
 ---
 
 📌 Projects
-Check my pinned repositories below 👇## Hi there 👋
+📌 Explore my projects below 👇below ## Hi there 👋
