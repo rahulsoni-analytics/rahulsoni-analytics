@@ -8,16 +8,20 @@ Hi, I'm Rahul Soni 👋
 
 ---
 
-🛠️ Skills
 
-- Data Visualization: Power BI
-- Data Analysis: Microsoft Excel (Pivot Tables, Charts, Lookup Functions)
-- Database: SQL (MySQL / PostgreSQL)
-- Data Processing: Power Query, ETL Concepts
-- Data Modeling: Relationships, Calculated Columns, Measures
-- Programming: Python (Basics – Pandas, NumPy, Matplotlib))
+
+- Data Visualization: Power BI (DAX, Power Query), Advanced Excel (Pivot Tables, Slicers, Lookup
+  Functions)
+- Databases & Querying: SQL (MySQL, PostgreSQL), Joins, Subqueries, Aggregations, Group By
+- Programming & Analytics: Python (Pandas, NumPy, Matplotlib), Exploratory Data Analysis (EDA)
+- Core Concepts: ETL Pipelines, Data Modeling (Star Schema), KPI Reporting, Trend Identification
+- Soft Skills: Analytical Thinking, Problem Solving, Communication, Attention to Detail
+
+
 
 ---
+
+
 
 📌 Projects
 📌 Explore my projects below 👇below ## Hi there 👋
