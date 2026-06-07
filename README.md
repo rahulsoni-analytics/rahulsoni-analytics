@@ -8,8 +8,6 @@ Hi, I'm Rahul Soni 👋
 
 ---
 
-
-
 - Data Visualization: Power BI (DAX, Power Query), Advanced Excel (Pivot Tables, Slicers, Lookup
   Functions)
 - Databases & Querying: SQL (MySQL, PostgreSQL), Joins, Subqueries, Aggregations, Group By
@@ -17,11 +15,7 @@ Hi, I'm Rahul Soni 👋
 - Core Concepts: ETL Pipelines, Data Modeling (Star Schema), KPI Reporting, Trend Identification
 - Soft Skills: Analytical Thinking, Problem Solving, Communication, Attention to Detail
 
-
-
 ---
-
-
 
 📌 Projects
 📌 Explore my projects below 👇below ## Hi there 👋
